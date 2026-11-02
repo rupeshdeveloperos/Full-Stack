@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 3.2rem;
+}
+
+p {
+    font-size: 1.6rem;
+}
+
+button {
+    font-size: 1.6rem;
+}
+
+input {
+    font-size: 1.6rem;
+}
+
+ul {
+    font-size: 1.6rem;
+}
+
+ol {
+    font-size: 1.6rem;
+}
+
+a {
+    font-size: 1.6rem;
+}
+
+img {
+    font-size: 1.6rem;
+}
+
+video {
+    font-size: 1.6rem;
+}
+
+audio {
+    font-size: 1.6rem;
+}
+
+canvas {
+    font-size: 1.6rem;
+}
+
+svg {
+    font-size: 1.6rem;
+}
+
+canvas {
+    font-size: 1.6rem;
+}
+
+canvas {
+    font-size: 1.6rem;
+}
+
+canvas {
+    font-size: 1.6rem;
+}
+
+canvas {
+    font-size: 1.6rem;
+}
+
